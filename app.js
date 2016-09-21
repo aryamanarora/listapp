@@ -1,4 +1,4 @@
-var itemTemplate = $('#templates .item')
+var itemTemplate = $('#templates.item')
 var list         = $('#list')
 
 var addItemToPage = function(itemData) {
